@@ -1,10 +1,13 @@
 # @ny-squared/guard
 
-> Unified LLM Security SDK 窶・One-liner protection for OpenAI / Anthropic / Gemini
+> **[Try PromptGuard Dashboard](https://app.trypromptguard.com)** | **[Security Benchmark](https://aibench.trypromptguard.com)** | **[Documentation](https://promptguard.co)**
+
+> Unified LLM Security SDK — One-liner protection for OpenAI / Anthropic / Gemini
 
 [![npm version](https://img.shields.io/npm/v/@ny-squared/guard)](https://www.npmjs.com/package/@ny-squared/guard)
 [![npm downloads](https://img.shields.io/npm/dw/@ny-squared/guard)](https://www.npmjs.com/package/@ny-squared/guard)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![GitHub Action](https://img.shields.io/badge/GitHub%20Action-Marketplace-blue)](https://github.com/nysquared-support-ux/guard-action)
 
 ## Features
 
