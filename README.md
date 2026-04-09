@@ -1,6 +1,6 @@
 # @ny-squared/guard
 
-> **[Try PromptGuard Dashboard](https://app.trypromptguard.com)** | **[Security Benchmark](https://aibench.trypromptguard.com)** | **[Documentation](https://promptguard.co)**
+> **[Try PromptSentry Dashboard](https://app.trypromptguard.com)** | **[Security Benchmark](https://aibench.trypromptguard.com)** | **[Documentation](https://promptguard.co)**
 
 > Unified LLM Security SDK — One-liner protection for OpenAI / Anthropic / Gemini
 
